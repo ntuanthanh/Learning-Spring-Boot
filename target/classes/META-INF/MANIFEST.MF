@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: thanh.nguyentuan
+Build-Jdk: 18.0.1
+Implementation-Title: news
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.baotintuc
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://projects.spring.io/spring-boot/news/
+Created-By: Maven Integration for Eclipse
+
